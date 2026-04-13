@@ -1,12 +1,12 @@
 
- AssetRefactor Pro 说明书
+ AssetRefactor 说明书
 
 版本： 1.0 (2026 Build)
 定位： 数字资产重构与命名工具
 技术栈： Python 3.x, PyQt6, Exiftool, Hashlib
 
 
- 1. 界面与品牌识别 (Branding & UI)
+ 1. 界面与识别
  1.1 视觉规范
  软件名称： AssetRefactor
   核心组件：  源路径/目标路径选择器。
