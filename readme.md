@@ -1,13 +1,9 @@
-这份说明书为 AssetRefactor Pro (GUI 版) 的开发提供了清晰的蓝图。该软件旨在通过精准的元数据提取和智能聚类算法，解决摄影师与影视从业者在 NAS 或本地存储上的资产归档痛点。
 
-
-
- AssetRefactor Pro 软件需求规格说明书 (SRS)
+ AssetRefactor Pro 说明书
 
 版本： 1.0 (2026 Build)
-定位： 专业级数字资产重构与命名工具
+定位： 数字资产重构与命名工具
 技术栈： Python 3.x, PyQt6, Exiftool, Hashlib
-
 
 
  1. 界面与品牌识别 (Branding & UI)
